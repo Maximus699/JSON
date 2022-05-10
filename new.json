@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 {
 	"name":"Maxim Laptev",
 	"age":"28",
 	"pets":"1",
 	"salary":"40000"
 }
+=======
+{
+	"name":"Maxim Laptev",
+	"age":"28",
+	"pets":"1",
+	"salary":"40000"
+}
+>>>>>>> d364c99c46dd90aaaa97124b0d731169cec611d9
